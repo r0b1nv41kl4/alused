@@ -1,5 +1,7 @@
-arv = float(input("Sisesta arv 1-9: "))
+n = (input("Sisesta arv 1-9: "))
 
-arvutus = arv; arv; arv 
+nn = n + n
 
-print(arvutus)
+nnn = n + n + n
+
+print(n, "+", nn, "+", nnn)

@@ -1,11 +1,9 @@
-import math
-
-# print(math.pi)
+from math import pi
 
 raadius = float(input("Sisesta raadius: "))
 raadiusruudus = raadius * raadius
 
-pindala = math.pi * raadiusruudus
-ümbermõõt = 2 * math.pi * raadius
+pindala = pi * raadiusruudus
+ümbermõõt = 2 * pi * raadius
 
 print("Pindala on", pindala, "ja ümbermõõt on", ümbermõõt)
