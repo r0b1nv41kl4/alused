@@ -1,1 +1,0 @@
-name = input("Sisesta oma nimi: ")
